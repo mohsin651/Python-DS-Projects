@@ -1,5 +1,5 @@
 
-# Hospitality Insights Analysis - AtliQ Pvt. Ltd
+# Hospitality Insights Analysis - AtliQ Pvt. Ltd.
 
 
 
